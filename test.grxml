@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<grammar  version="1.0" xml:lang="es-us" xmlns="http://www.w3.org/2001/06/grammar" tag-format="swi-semantics/1.0" root="root" >
+  
+	<rule id="root" scope="public">
+		<one-of>
+			<item>mi internet está muy lento</item>
+			<item>tengo una pregunta sobre mi modem</item>
+			<item>olvidé mi contraseña</item>
+		</one-of>
+	</rule>
+
+</grammar>
